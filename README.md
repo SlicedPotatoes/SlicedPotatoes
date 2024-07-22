@@ -28,23 +28,23 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats </h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SlicedPotatoes&theme=dark&show_icons=true&count_private=true" style="max-width: 100%; height: auto;" />
-    </td>
-    <td align="center" rowspan="2">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SlicedPotatoes&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" style="max-width: 100%; height: auto;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlicedPotatoes&theme=dark&hide_border=false" style="max-width: 100%; height: auto;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SlicedPotatoes&theme=dark&show_icons=true&count_private=true" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlicedPotatoes&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SlicedPotatoes&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SlicedPotatoes&theme=dark_lover&margin-w=5" />
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=SlicedPotatoes&style=flat-square&color=blue"/>
 </p>
