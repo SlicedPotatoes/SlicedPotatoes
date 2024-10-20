@@ -4,7 +4,7 @@
 <h3 align="center"> About Me: </h3>
 
 - ✨ A passionate self-taught developer<br>
-- 🔭 I am going to study at the IUT of Valencienne<br>
+- 🔭 I am studying at the Université Polytechnique Hauts-de-France (UPHF)<br>
 - 🌱 I'm currently learning algorithmic skill with LeetCode<br>
 
 <br><br><br><br><br>
